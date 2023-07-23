@@ -46,7 +46,7 @@ db.posts.insertMany([
 ]);
 
 // 4. find()명령
-// 1) find all
+// 1) find all 
 db.posts.find();
 
 // 2) findOne()
