@@ -6,7 +6,7 @@ use blog
 // 2. collection생성
 db.createCollection("posts");
 
-// 3. insert(객체)
+// 3. insert(객체) 
 // 1) insertOne()
 db.posts.insertOne({
 	title: "제목 1",
