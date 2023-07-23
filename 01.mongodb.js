@@ -7,7 +7,7 @@ use blog
 db.createCollection("posts");
 
 // 3. insert(객체)
-// 1) insertOne() 
+// 1) insertOne()
 db.posts.insertOne({
 	title: "제목 1",
 	body: "글상세내용",
