@@ -3,7 +3,7 @@
 // use databae이름
 use blog
 
-// 2. collection생성
+// 2. collection생성 
 db.createCollection("posts");
 
 // 3. insert(객체) 
