@@ -98,7 +98,7 @@ db.posts.find();
 //	1. 비교연산자
 //	
 //	$eq
-//	$ne 
+//	$ne
 //	$gt
 //	$gte
 //	$lt
